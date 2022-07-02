@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=bryare&color=green)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bryare&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bryare&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryare&show_icons=true&theme=radical)
 
