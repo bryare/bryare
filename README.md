@@ -13,12 +13,54 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://img.shields.io/static/v1?message=graphql&logo=graphql&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
+https://img.shields.io/static/v1?message=typescript&logo=typescript&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
+https://img.shields.io/static/v1?message=redux&logo=redux&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
+https://img.shields.io/static/v1?message=gatsby&logo=gatsby&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
+https://img.shields.io/static/v1?message=next&logo=next.js&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
 -->
 # Hey y'all, I'm Bryan  <img src="https://user-images.githubusercontent.com/37481349/177178131-63d703f5-7530-416e-8f8b-df1619336f64.gif" width="30px" height="30px" />
 
+![](https://komarev.com/ghpvc/?username=bryare&color=ff00ff)
+
+## My tech stack
+
+![](https://img.shields.io/static/v1?message=html5&logo=html5&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+![](https://img.shields.io/static/v1?message=css3&logo=css3&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+![](https://img.shields.io/static/v1?message=sass&logo=sass&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+![](https://img.shields.io/static/v1?message=bootstrap&logo=bootstrap&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+![](https://img.shields.io/static/v1?message=javascript&logo=javascript&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+![](https://img.shields.io/static/v1?message=nodejs&logo=node.js&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+![](https://img.shields.io/static/v1?message=express&logo=express&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
 ![](https://img.shields.io/static/v1?message=react&logo=react&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
 
-![](https://komarev.com/ghpvc/?username=bryare&color=green)
+![](https://img.shields.io/static/v1?message=astro&logo=astro&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+![](https://img.shields.io/static/v1?message=mongodb&logo=mongodb&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+![](https://img.shields.io/static/v1?message=sqlite&logo=sqlite&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+![](https://img.shields.io/static/v1?message=git&logo=git&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+![](https://img.shields.io/static/v1?message=github&logo=github&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+![](https://img.shields.io/static/v1?message=netlify&logo=netlify&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+![](https://img.shields.io/static/v1?message=heroku&logo=heroku&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+![](https://img.shields.io/static/v1?message=figma&logo=figma&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+![](https://img.shields.io/static/v1?message=postman&logo=postman&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+## Some stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bryare&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
