@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **bryare/bryare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey y'all <img src="https://user-images.githubusercontent.com/37481349/177178131-63d703f5-7530-416e-8f8b-df1619336f64.gif" width="30px" height="30px" />
+# Hey y'all, I'm Bryan  <img src="https://user-images.githubusercontent.com/37481349/177178131-63d703f5-7530-416e-8f8b-df1619336f64.gif" width="30px" height="30px" />
 
-
+![](https://img.shields.io/static/v1?message=react&logo=react&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
 
 ![](https://komarev.com/ghpvc/?username=bryare&color=green)
 
