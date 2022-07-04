@@ -27,37 +27,21 @@ https://img.shields.io/static/v1?message=next&logo=next.js&labelColor=5c5c5c&col
 ## My tech stack
 
 ![](https://img.shields.io/static/v1?message=html5&logo=html5&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=css3&logo=css3&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=sass&logo=sass&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=bootstrap&logo=bootstrap&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=javascript&logo=javascript&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=nodejs&logo=node.js&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=express&logo=express&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=react&logo=react&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=astro&logo=astro&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=mongodb&logo=mongodb&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=sqlite&logo=sqlite&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=git&logo=git&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=github&logo=github&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=netlify&logo=netlify&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=heroku&logo=heroku&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=figma&logo=figma&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-
 ![](https://img.shields.io/static/v1?message=postman&logo=postman&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
 
 ## Some stats
