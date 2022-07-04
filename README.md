@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hey y'all ![wave](https://user-images.githubusercontent.com/37481349/177178131-63d703f5-7530-416e-8f8b-df1619336f64.gif)
+
 
 ![](https://komarev.com/ghpvc/?username=bryare&color=green)
 
