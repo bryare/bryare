@@ -23,8 +23,6 @@ https://img.shields.io/static/v1?message=next&logo=next.js&labelColor=5c5c5c&col
 
 <h3 align="center"> 👨‍💻 Developer 👨‍🎨 Designer 🎨 Artist</h3>
 
-## Some stats
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bryare&color=ff00ff" /> </p>
 
 <p align="center"> <img align="center" src="/github-metrics.svg"> </p>
