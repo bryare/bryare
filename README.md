@@ -17,6 +17,11 @@ https://img.shields.io/static/v1?message=typescript&logo=typescript&labelColor=5
 https://img.shields.io/static/v1?message=redux&logo=redux&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
 https://img.shields.io/static/v1?message=gatsby&logo=gatsby&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
 https://img.shields.io/static/v1?message=next&logo=next.js&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
+https://img.shields.io/static/v1?message=react%20router&logo=reactrouter&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
+https://img.shields.io/static/v1?message=google%20chrome&logo=googlechrome&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
+https://img.shields.io/static/v1?message=mozilla%20firefox&logo=firefox&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
+https://img.shields.io/static/v1?message=safari&logo=safari&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
+https://img.shields.io/static/v1?message=brave&logo=brave&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
 -->
 
 <h1 align="center"> Hey y'all, I'm Bryan <img src="https://user-images.githubusercontent.com/37481349/177178131-63d703f5-7530-416e-8f8b-df1619336f64.gif" width="30px" height="30px" /> </h1>
