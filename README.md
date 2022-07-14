@@ -73,7 +73,7 @@ https://img.shields.io/static/v1?message=next&logo=next.js&labelColor=5c5c5c&col
 ### OS
 ![](https://img.shields.io/static/v1?message=windows&logo=windows&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
 ![](https://img.shields.io/static/v1?message=macOS&logo=apple&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-![](https://img.shields.io/static/v1?message=ubuntu&logo=ubuntu&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+![](https://img.shields.io/static/v1?message=linux&logo=linux&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
 
 
 
