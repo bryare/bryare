@@ -28,6 +28,11 @@ https://img.shields.io/static/v1?message=mysql&logo=mysql&labelColor=5c5c5c&colo
 https://img.shields.io/static/v1?message=firebase&logo=firebase&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
 https://img.shields.io/static/v1?message=styled-components&logo=styled-components&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
 https://img.shields.io/static/v1?message=gitlab&logo=gitlab&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
+
+https://img.shields.io/static/v1?message=medium&logo=medium&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
+https://img.shields.io/static/v1?message=dev.to&logo=dev.to&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
+https://img.shields.io/static/v1?message=hashnode&logo=hashnode&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
+https://img.shields.io/static/v1?message=hackernoon&logo=hackernoon&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
 -->
 
 <h1 align="center"> Hey y'all, I'm Bryan <img src="https://user-images.githubusercontent.com/37481349/177178131-63d703f5-7530-416e-8f8b-df1619336f64.gif" width="30px" height="30px" /> </h1>
