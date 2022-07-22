@@ -18,6 +18,7 @@ https://img.shields.io/static/v1?message=redux&logo=redux&labelColor=5c5c5c&colo
 https://img.shields.io/static/v1?message=gatsby&logo=gatsby&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
 https://img.shields.io/static/v1?message=next&logo=next.js&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
 https://img.shields.io/static/v1?message=react%20router&logo=reactrouter&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
+https://img.shields.io/static/v1?message=redux&logo=redux&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
 https://img.shields.io/static/v1?message=google%20chrome&logo=googlechrome&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
 https://img.shields.io/static/v1?message=mozilla%20firefox&logo=firefox&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
 https://img.shields.io/static/v1?message=safari&logo=safari&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
