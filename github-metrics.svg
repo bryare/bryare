@@ -1316,7 +1316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mhyfritz/astro-landing-page</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Astro + Tailwind CSS Example/Template for Landing Pages</div>
@@ -1369,7 +1369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bradtraversy/design-resources-for-developers</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more</div>
@@ -2015,7 +2015,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2022, 16:21:33 (timezone America/Chicago) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 29 Jul 2022, 17:24:10 (timezone America/Chicago) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
