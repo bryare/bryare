@@ -53,9 +53,12 @@ https://img.shields.io/static/v1?message=hackernoon&logo=hackernoon&labelColor=5
 ![](https://img.shields.io/static/v1?message=css3&logo=css3&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
 ![](https://img.shields.io/static/v1?message=sass&logo=sass&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
 
-### Databases
+### Databases NoSQL
 
 ![](https://img.shields.io/static/v1?message=mongodb&logo=mongodb&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+### Databases SQL
+
 ![](https://img.shields.io/static/v1?message=sqlite&logo=sqlite&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
 
 ### Frameworks
