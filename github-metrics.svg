@@ -1321,7 +1321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mhyfritz/astro-landing-page</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Astro + Tailwind CSS Example/Template for Landing Pages</div>
@@ -1421,7 +1421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>atomicojs/atomicojs.dev</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1469,7 +1469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>atomicojs/atomico</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Atomico a micro-library for creating webcomponents using only functions, hooks and virtual-dom.</div>
@@ -2020,7 +2020,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jul 2022, 13:28:01 (timezone America/Chicago) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 30 Jul 2022, 14:18:51 (timezone America/Chicago) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
