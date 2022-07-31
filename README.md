@@ -44,6 +44,8 @@ https://img.shields.io/static/v1?message=hackernoon&logo=hackernoon&labelColor=5
 
 <p align="center"> <img align="center" src="/github-metrics.svg"> </p>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=bryare&theme=xcode">
+
 ## Tech stack
 
 ### Languages
