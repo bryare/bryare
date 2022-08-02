@@ -1338,7 +1338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mhyfritz/astro-landing-page</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Astro + Tailwind CSS Example/Template for Landing Pages</div>
@@ -1652,7 +1652,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 834k out of 95m users</span>
+                                    <span class="gh">ranked 889k out of 95m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">35</div>
                                     </div>
@@ -2037,7 +2037,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Aug 2022, 14:19:20 (timezone America/Chicago) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 2 Aug 2022, 15:26:36 (timezone America/Chicago) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
