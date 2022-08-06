@@ -83,10 +83,13 @@ https://img.shields.io/static/v1?message=hackernoon&logo=hackernoon&labelColor=5
 
 ![](https://img.shields.io/static/v1?message=git&logo=git&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
 ![](https://img.shields.io/static/v1?message=github&logo=github&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
-![](https://img.shields.io/static/v1?message=npm&logo=npm&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
 ![](https://img.shields.io/static/v1?message=figma&logo=figma&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
 ![](https://img.shields.io/static/v1?message=postman&logo=postman&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
 ![](https://img.shields.io/static/v1?message=homebrew&logo=homebrew&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
+
+### Package Managers
+
+![](https://img.shields.io/static/v1?message=npm&logo=npm&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic)
 
 ### IDE's
 
