@@ -1348,7 +1348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>slidevjs/slidev</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Presentation Slides for Developers</div>
@@ -1401,7 +1401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Envoy-VC/awesome-badges</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">😎 A curated list of GitHub badges for your next  project</div>
@@ -2052,7 +2052,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2022, 22:51:39 (timezone America/Chicago) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 10 Aug 2022, 23:33:48 (timezone America/Chicago) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
