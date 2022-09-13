@@ -1338,7 +1338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lightrix/astro-compress</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.</div>
@@ -1632,7 +1632,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 832k out of 98m users</span>
+                                    <span class="gh">ranked 833k out of 98m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">37</div>
                                     </div>
@@ -1841,7 +1841,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 757k out of 98m users</span>
+                                    <span class="gh">ranked 758k out of 98m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">13</div>
                                     </div>
@@ -2130,7 +2130,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2022, 09:31:28 (timezone America/Chicago) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Sept 2022, 10:29:33 (timezone America/Chicago) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
