@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            605 Commits
+                            606 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.83644601495814" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="295.83644601495814" y="0" width="78.97784746341117" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="374.81429347836934" y="0" width="35.46102168688164" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="410.27531516525096" y="0" width="13.555880922715247" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="423.8311960879662" y="0" width="12.514250704635728" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="436.345446792602" y="0" width="9.349885814753145" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="445.6953326073551" y="0" width="7.250713283605819" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="452.94604589096093" y="0" width="7.053954109039094" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.04654216970505" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="295.04654216970505" y="0" width="78.70778438588269" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="373.75432655558774" y="0" width="34.744795371571655" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="408.4991219271594" y="0" width="13.509526874862853" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="422.00864880202226" y="0" width="12.47145848926391" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="434.4801072912862" y="0" width="11.264139823404271" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="445.74424711469044" y="0" width="7.2259196230220155" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="452.9701667377124" y="0" width="7.029833262287551" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1316,7 +1316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swup/swup</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1372,7 +1372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Navillus-BV/demo-astro-snipcart</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Demo site using Astro and Snipcart to build a restaurant's online ordering site.</div>
@@ -1425,7 +1425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>invoke-ai/InvokeAI</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features and other enhancements.</div>
@@ -1446,20 +1446,20 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        2.48k
+                                        2.49k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        349
+                                        350
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        361
+                                        362
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2103,7 +2103,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2022, 16:24:57 (timezone America/Chicago) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 23 Sept 2022, 17:31:42 (timezone America/Chicago) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
