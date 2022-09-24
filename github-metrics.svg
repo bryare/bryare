@@ -1321,7 +1321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>swup/swup</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1377,7 +1377,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Navillus-BV/demo-astro-snipcart</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Demo site using Astro and Snipcart to build a restaurant's online ordering site.</div>
@@ -2108,7 +2108,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Sept 2022, 05:28:49 (timezone America/Chicago) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 24 Sept 2022, 06:22:49 (timezone America/Chicago) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
