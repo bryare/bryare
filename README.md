@@ -45,7 +45,7 @@ https://img.shields.io/static/v1?message=hackernoon&logo=hackernoon&labelColor=5
 <p align="center">
  <img src="https://img.shields.io/github/commit-activity/m/bryare/bryare?color=ff00ff" alt="commit activity">
  <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/bryare/bryare/main?color=ff00ff">
- <img alt="https://github.com/bryare/bryare/actions/workflows/main.yml" src="https://github.com/bryare/bryare/actions/workflows/main.yml/badge.svg">
+<!--  <img alt="https://github.com/bryare/bryare/actions/workflows/main.yml" src="https://github.com/bryare/bryare/actions/workflows/main.yml/badge.svg"> -->
 </p>
 
 
