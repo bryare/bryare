@@ -36,24 +36,24 @@ https://img.shields.io/static/v1?message=hashnode&logo=hashnode&labelColor=5c5c5
 https://img.shields.io/static/v1?message=hackernoon&logo=hackernoon&labelColor=5c5c5c&color=ff00ff&logoColor=white&label=%20&style=plastic
 -->
 
-<h1 align="center"> Hey y'all, I'm Bryan <img src="https://user-images.githubusercontent.com/37481349/177178131-63d703f5-7530-416e-8f8b-df1619336f64.gif" width="30px" height="30px" /> </h1>
+<h1 align="center"> Hey y'all, I'm Bry <img src="https://user-images.githubusercontent.com/37481349/177178131-63d703f5-7530-416e-8f8b-df1619336f64.gif" width="30px" height="30px" /> </h1>
 
 <h3 align="center"> 👨‍💻 Developer 👨‍🎨 Designer 🎨 Artist</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bryare&color=ff00ff" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=bryare&color=ff00ff" /> </p> -->
 
-<p align="center">
+<!-- <p align="center">
  <img src="https://img.shields.io/github/commit-activity/m/bryare/bryare?color=ff00ff" alt="commit activity">
  <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/bryare/bryare/main?color=ff00ff">
  <img alt="https://github.com/bryare/bryare/actions/workflows/main.yml" src="https://github.com/bryare/bryare/actions/workflows/main.yml/badge.svg">
-</p>
+</p> -->
 
 
 <!-- <p align="center"> <img align="center" src="/github-metrics.svg"> </p> -->
 
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=bryare&theme=xcode">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=bryare&theme=xcode"> -->
 
 ## Tech stack
 
